@@ -36,6 +36,30 @@ source ~/.bashrc
 
 ```
 
+
+build_help
+
+```
+feature_option(build_tests "build tests" ON)
+feature_option(build_examples "build examples" ON)
+feature_option(build_tools "build tools" OFF)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 In Debian with Transmission, torrent files can be stored anywhere you want, but usually they go in a dedicated folder. By default:
 
 ```
